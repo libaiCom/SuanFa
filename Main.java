@@ -3,12 +3,12 @@ public class Main{
     {
 
         System.out.println("hello,world");
-        int[] a = {6,3,9,2,5,7,1,4,8};
+        int[] a = {5,3,9,2,6,7,1,4,8};
         
         for(int iii=0;iii<a.length;iii++){
             System.out.print(a[iii]+",");
         }
-        System.out.println("排序前");
+        System.out.println("排序前是");
 
 
         /*
